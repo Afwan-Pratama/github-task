@@ -195,6 +195,10 @@ img {
     font-size: .9rem;
 }
 
+.dev {
+    font-size: 1px;
+}
+
 @keyframes gameName {
     0% {
         text-align: left;
