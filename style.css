@@ -199,6 +199,10 @@ img {
     font-size: 1px;
 }
 
+.responsive {
+    width: 50%;
+}
+
 @keyframes gameName {
     0% {
         text-align: left;
